@@ -1,4 +1,4 @@
-# CODSOFT
+# CodSoft
 Repository for Task 1: Titanic Survival Prediction Model in CodSoft's Data Science internship.
 
 # Question
